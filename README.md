@@ -5,8 +5,8 @@ ProfitPredict is my first machine learning project aimed at predicting startup p
 ## Dataset: 
 This dataset includes information on startup expenses and profits, providing insights into business owners' spending habits and their impact on profitability:
 
-R&D Spend: Amount invested in research and development.
-Administration: Costs related to administrative functions like salaries, supplies, and utilities.
-Marketing Spend: Expenditure on marketing activities to promote and increase sales.
-State: Location where the startup operates, influencing market conditions and business performance.
-Profit: Net income after deducting expenses from revenue, revealing which expenditures contribute most to profitability.
+1- R&D Spend: Amount invested in research and development.
+2- Administration: Costs related to administrative functions like salaries, supplies, and utilities.
+3- Marketing Spend: Expenditure on marketing activities to promote and increase sales.
+4- State: Location where the startup operates, influencing market conditions and business performance.
+5- Profit: Net income after deducting expenses from revenue, revealing which expenditures contribute most to profitability.
